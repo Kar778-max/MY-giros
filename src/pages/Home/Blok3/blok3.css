@@ -1,0 +1,15 @@
+.blok3Porent{
+    width: 1520px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.menu1 h2{
+    font-size: 40px;
+    color: rgb(60, 72, 137);
+    padding-top: 20px;
+}
+.img3 img{
+    width: 350px;
+}
